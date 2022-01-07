@@ -3,8 +3,12 @@
   <channel>
     <title>Categories on hugo sucks</title>
     <link>https://test.panjibaskoro.web.id/categories/</link>
-    <description>Recent content in Categories on hugo sucks</description>
+    <description>hugo sucks (Categories)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://test.panjibaskoro.web.id/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    
+    <atom:link href="https://test.panjibaskoro.web.id/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>

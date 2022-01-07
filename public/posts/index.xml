@@ -3,10 +3,24 @@
   <channel>
     <title>Posts on hugo sucks</title>
     <link>https://test.panjibaskoro.web.id/posts/</link>
-    <description>Recent content in Posts on hugo sucks</description>
+    <description>hugo sucks (Posts)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Jan 2022 00:08:51 +0700</lastBuildDate><atom:link href="https://test.panjibaskoro.web.id/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Jan 2022 01:31:40 +0700</lastBuildDate>
+    
+    <atom:link href="https://test.panjibaskoro.web.id/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Panji Was Here</title>
+      <link>https://test.panjibaskoro.web.id/posts/panji-was-here/</link>
+      <pubDate>Sat, 08 Jan 2022 01:31:40 +0700</pubDate>
+      
+      <guid>https://test.panjibaskoro.web.id/posts/panji-was-here/</guid>
+      <description>&lt;p&gt;yup&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>https://test.panjibaskoro.web.id/posts/my-first-post/</link>
