@@ -1,4 +1,4 @@
-baseURL = 'https://bijancot.github.io/blog/'
+baseURL = 'https://test.panjibaskoro.web.id'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "ananke"
