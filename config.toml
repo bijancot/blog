@@ -1,4 +1,4 @@
-baseURL = 'https://test.panjibaskoro.web.id'
+baseURL = 'https://test.panjibaskoro.web.id/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'hugo sucks'
 theme = "ananke"
