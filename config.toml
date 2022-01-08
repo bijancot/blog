@@ -1,4 +1,0 @@
-baseURL = 'https://test.panjibaskoro.web.id/'
-languageCode = 'en-us'
-title = 'hugo sucks'
-theme = "anubis"

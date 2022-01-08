@@ -1,0 +1,31 @@
+baseURL: 'https://test.panjibaskoro.web.id/'
+languageCode: 'en-us'
+title: 'hugo sucks'
+theme: "anubis"
+
+menu:
+  main:
+  - identifier: archive
+    name: Articles
+    title: Articles
+    url: /posts/
+    weight: 0
+  - identifier: aboutme
+    name: whoami
+    title: whoami
+    url: /aboutme
+    weight: 0
+
+
+params:
+  author: "Panji Iman Baskoro"
+  email: panjidia995@gmail.com
+  style: dark
+  description: "Hello there"
+  readMore: true
+  disableSummary: false
+  social:
+  - id: github
+    name: bijancot
+  - id: linkedin
+    name: panjibaskoro
