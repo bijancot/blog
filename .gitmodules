@@ -1,12 +1,12 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
-[submodule "themes/anubis"]
-	path = themes/anubis
-	url = https://github.com/mitrichius/hugo-theme-anubis.git
 [submodule "themes/hugo-clarity"]
 	path = themes/hugo-clarity
 	url = https://github.com/chipzoller/hugo-clarity
 [submodule "themes/simme"]
 	path = themes/simme
 	url = https://github.com/simme/blog
+[submodule "themes/anubis"]
+	path = themes/anubis
+	url = https://github.com/mitrichius/hugo-theme-anubis.git
