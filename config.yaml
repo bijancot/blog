@@ -1,6 +1,6 @@
 baseURL: 'https://test.panjibaskoro.web.id/'
 languageCode: 'en-us'
-title: 'hugo sucks'
+title: 'Panji Iman Baskoro'
 theme: "anubis"
 enableEmoji: true
 
