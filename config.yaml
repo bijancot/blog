@@ -2,6 +2,7 @@ baseURL: 'https://test.panjibaskoro.web.id/'
 languageCode: 'en-us'
 title: 'hugo sucks'
 theme: "anubis"
+enableEmoji: true
 
 menu:
   main:
@@ -29,3 +30,5 @@ params:
     name: bijancot
   - id: linkedin
     name: panjibaskoro
+  - id: twitter
+    name: panjibaskoro_

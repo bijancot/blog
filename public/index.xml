@@ -6,10 +6,49 @@
     <description>hugo sucks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Jan 2022 01:31:40 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jan 2022 15:26:36 +0700</lastBuildDate>
     
     <atom:link href="https://test.panjibaskoro.web.id/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Halo Rakyat Internet !</title>
+      <link>https://test.panjibaskoro.web.id/posts/halo-rakyat-internet/</link>
+      <pubDate>Sat, 08 Jan 2022 15:26:36 +0700</pubDate>
+      
+      <guid>https://test.panjibaskoro.web.id/posts/halo-rakyat-internet/</guid>
+      <description>&lt;p&gt;Hai! ini artikel pertama saya sekaligus pengenalan siapa Panji Baskoro. Sebelumnya terimakasih sudah ada di sini 😂&lt;/p&gt;
+&lt;h2 id=&#34;tldr&#34;&gt;TL;DR
+&lt;span&gt;&lt;a href=&#34;#tldr&#34;&gt;#&lt;/a&gt;&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;Halo saya Panji Iman Baskoro, Seorang freelance web developer, freelance sysadmin dan Novice SEO engineer. Saat ini saya tinggal di kota Malang dan sangat tertarik untuk belajar hal-hal baru khususnya di bidang DevOps, Project Management, Server infrastructure seperti kubernetes dan docker, bidang Web development menggunakan AngularJS, web design dan Search Engine Optimization khususnya untuk wordpress. THX.&lt;/p&gt;
+&lt;hr&gt;
+&lt;br /&gt;
+&lt;p&gt;Perkenalkan nama saya &lt;strong&gt;Panji Iman Baskoro&lt;/strong&gt; saat artikel ini ditulis saya sedang ada di semester 5 jurusan Teknik Informatika STIKI Malang. Jujur saya sangat senang bisa kuliah di jurusan ini, karena dari SMP saya rasa komputer, Internet dan pemprogramman adalah passion saya. Belum lagi keadaan sekitar keluarga saya yang terhitung cukup visioner dan mendukung saya untuk belajar lebih jauh di bidang ini. singkat cerita saya melanjutkan pendidikan saya sesuai dengan bidang yang saya tekuni sekarang. it’s kinda fun!
+&lt;br /&gt;&lt;br /&gt;
+Di sela-sela kuliah saya juga sering melakukan riset dan belajar hal yang berhubungan dengan web development dan Infrastructure server. Hingga pada tahun 2017 saya mulai berani dan dipercayai oleh beberapa rekan saya untuk mengerjakan proyek web dan infrastructure di beberapa perusahaan. Selain mulai bekerja di semester 4, saya juga mulai aktif bergabung di UKM &lt;a href=&#34;https://scen.or.id&#34;&gt;SCEN&lt;/a&gt; (STIKI Computer and Networking Comunity). Di sini saya belajar banyak tentang keorganisasian dan public speaking, sehingga saya sempat menjadi pengisi acara dibeberapa event keilmuan di Malang.
+&lt;br /&gt;&lt;br /&gt;
+Saat ini saya sedang sibuk dengan pekerjaan proyek lepas (freelance) untuk beberapa perusahaan dengan berbagai jenis pekerjaan mulai dari web development, Social media marketing, dan Sysadmin untuk salah satu software house yang berbasis di Malang.&lt;/p&gt;
+&lt;p&gt;Untuk saat ini itu dulu yang bisasaya bagikan untuk kawan-kawan, have a good day.
+&lt;br /&gt;&lt;br /&gt;
+Connect with me :
+&lt;a href=&#34;mailto&#34;&gt;Email&lt;/a&gt; | &lt;a href=&#34;Linkedin&#34;&gt;Linkedin&lt;/a&gt; | &lt;a href=&#34;github&#34;&gt;Github&lt;/a&gt; | &lt;a href=&#34;twitter&#34;&gt;Twitter&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About Panji Baskoro</title>
+      <link>https://test.panjibaskoro.web.id/aboutme/</link>
+      <pubDate>Sat, 08 Jan 2022 14:22:33 +0700</pubDate>
+      
+      <guid>https://test.panjibaskoro.web.id/aboutme/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt viverra nulla, vel interdum erat mollis et. Aliquam sit amet mi diam. Curabitur egestas, nunc quis ullamcorper mollis, augue neque efficitur neque, ut gravida ligula dolor quis dui. Phasellus convallis mauris eget mauris commodo venenatis. Nam auctor tempus diam vel finibus. Integer volutpat augue eros, id tristique risus faucibus at. Maecenas mollis porttitor lobortis. Aenean accumsan facilisis enim viverra rutrum.&lt;/p&gt;
+&lt;p&gt;Curabitur tincidunt dapibus pharetra. Nam scelerisque eleifend orci, ut eleifend lacus auctor vel. Duis at nibh arcu. Suspendisse hendrerit enim vel purus mattis, sed blandit ligula cursus. Sed laoreet leo erat, at varius elit elementum sed. Suspendisse auctor erat a molestie efficitur. Fusce ornare ex cursus, porta leo vel, dignissim nisi. Suspendisse eget arcu nec libero molestie viverra. Nunc eu lorem justo. Quisque eu purus a justo bibendum pellentesque sed vitae neque. Mauris venenatis at orci in vehicula. Nullam feugiat, nisl ac accumsan semper, libero odio dapibus magna, quis facilisis mi ante ac odio. Ut quis velit in orci semper auctor. Fusce iaculis libero dolor, vitae venenatis libero luctus interdum. Sed aliquet metus magna, et ultrices nibh consequat ac.&lt;/p&gt;
+&lt;p&gt;Duis mi lorem, luctus eget tristique eget, imperdiet sed lorem. Phasellus tincidunt magna vitae neque sodales pretium. Nam dignissim diam nec neque semper, nec facilisis nibh ullamcorper. Vivamus elit mi, dictum nec velit vel, interdum porttitor leo. Maecenas euismod maximus augue, sed auctor nisl interdum ac. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce nibh neque, volutpat vel hendrerit ut, posuere eget risus. Donec ultrices velit in consectetur egestas. Maecenas pellentesque faucibus enim sit amet pretium. Pellentesque faucibus quis nunc non feugiat. Suspendisse porttitor vehicula elementum. Maecenas sit amet scelerisque turpis. Donec eget metus eget nulla tincidunt condimentum.&lt;/p&gt;
+&lt;p&gt;Integer lacinia odio vitae tortor condimentum blandit. Mauris nec sapien viverra, ullamcorper purus id, tempus erat. In in ipsum efficitur, feugiat odio a, mollis sapien. Etiam condimentum nunc eu ex condimentum imperdiet. Maecenas suscipit, nulla nec vulputate tempus, risus mauris aliquam enim, eu fringilla enim neque id sem. Aenean vel egestas erat. Sed sed nisl faucibus, finibus quam ut, congue massa. Vivamus et neque vehicula, volutpat sapien ut, facilisis nunc. Suspendisse neque nisi, placerat ac tincidunt ac, cursus at diam. Sed pulvinar vel turpis sit amet lobortis. Donec mollis imperdiet lectus at facilisis. Sed ex erat, placerat ac dui sed, scelerisque cursus felis. Nunc ipsum neque, lobortis vel mi vitae, iaculis mollis arcu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse placerat nisl sit amet lectus hendrerit sollicitudin. Duis sagittis a risus in dignissim.&lt;/p&gt;
+&lt;p&gt;Cras luctus aliquet risus. Donec vulputate lacus ut interdum interdum. Pellentesque mi dui, pharetra quis tincidunt a, elementum at arcu. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent facilisis est libero, ut eleifend felis vehicula ut. Quisque vehicula, metus ac commodo faucibus, nisl lectus mollis lectus, non iaculis dui eros vel nisl. Vestibulum at vehicula turpis. Quisque magna diam, vehicula ut porta sed, ultricies in leo. Aenean vestibulum finibus urna eu tempor. Donec eget hendrerit orci. Pellentesque commodo neque vitae sem pellentesque, non convallis lectus vestibulum.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Panji Was Here</title>
@@ -17,7 +56,11 @@
       <pubDate>Sat, 08 Jan 2022 01:31:40 +0700</pubDate>
       
       <guid>https://test.panjibaskoro.web.id/posts/panji-was-here/</guid>
-      <description>&lt;p&gt;yup&lt;/p&gt;
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse id hendrerit augue. Cras sed diam pretium, volutpat enim non, rhoncus neque. Suspendisse potenti. Maecenas pretium dolor dictum eros lobortis, ac euismod lectus varius. Fusce in sollicitudin est. Praesent eros nisl, efficitur id tortor a, dapibus pulvinar erat. Nunc rutrum ultricies mauris, quis interdum massa rutrum at.&lt;/p&gt;
+&lt;p&gt;Aliquam faucibus eleifend sapien non dapibus. Ut sit amet cursus ligula. Phasellus vitae enim quis ipsum maximus ullamcorper. Aliquam scelerisque convallis eros, sed interdum quam euismod sed. Morbi quis nunc magna. Suspendisse convallis at nibh quis mattis. Mauris tempor leo nec dignissim egestas. Suspendisse id lectus eget magna placerat placerat in ut urna. Etiam convallis est a rutrum laoreet. Aenean sed nisl auctor, tincidunt leo sit amet, consequat est. Morbi a quam vitae metus fermentum hendrerit. Nulla facilisi. In non cursus justo. Duis vel malesuada urna. Duis luctus ipsum lectus, vel pharetra tortor iaculis volutpat. Donec et turpis id nunc sollicitudin hendrerit ac eu velit.&lt;/p&gt;
+&lt;p&gt;Mauris arcu ipsum, mattis vel dignissim id, gravida at nibh. Mauris sagittis nisl sed urna porttitor dictum. Morbi odio tellus, porta non mauris sit amet, sollicitudin laoreet turpis. Vivamus fermentum mi id odio fringilla, in iaculis tortor aliquam. Phasellus sit amet neque vitae sapien vestibulum ultrices. Vestibulum consequat enim risus, sit amet ultrices mi varius ac. Phasellus vel massa neque. Nunc posuere augue diam, sed lacinia tortor laoreet ut. Donec pharetra rutrum odio et bibendum. Cras auctor imperdiet nunc non blandit. Phasellus consectetur augue magna, ac euismod risus imperdiet eu. Aliquam finibus tortor sed imperdiet blandit. In hendrerit vitae lorem eu ultricies.&lt;/p&gt;
+&lt;p&gt;Nullam libero sapien, tincidunt ut lectus quis, hendrerit dignissim nulla. Vivamus vel mi pellentesque, suscipit lorem vel, blandit arcu. Curabitur diam sapien, venenatis id tortor eget, scelerisque sollicitudin quam. Sed diam justo, posuere sit amet egestas a, aliquam eleifend mauris. Cras consequat volutpat dolor, a pharetra turpis dapibus vitae. Curabitur ac euismod dui. Nulla at pharetra dui, sit amet sollicitudin quam. Proin vel vehicula purus, eu rhoncus urna. Sed dui nulla, gravida porttitor mollis sit amet, tempus eu nibh. Integer in purus ullamcorper, commodo lorem a, pulvinar eros. Cras ultrices mattis lacus sit amet efficitur.&lt;/p&gt;
+&lt;p&gt;In tempor vel justo eget rutrum. Fusce sapien enim, placerat eu condimentum sit amet, laoreet vel felis. Phasellus mauris massa, tristique vel lacus id, laoreet mollis lectus. Nunc tristique tincidunt enim, sed venenatis mi luctus vel. Suspendisse dapibus lorem eget arcu pretium, eget interdum nulla pretium. Integer eu tincidunt nibh. Mauris tempus consectetur nisi eget pharetra. Suspendisse laoreet, augue vel imperdiet iaculis, velit leo pellentesque odio, eget dignissim justo orci id magna. Sed vitae vestibulum eros. Duis ultricies risus vel leo elementum maximus. Phasellus vel tortor eget sapien venenatis malesuada. Vivamus eget maximus nibh. Nam maximus nisi at sapien bibendum, semper bibendum tellus finibus. Nunc at risus id nunc cursus maximus in dapibus mauris. Suspendisse quis libero ultricies ex molestie sodales. Sed aliquam vitae nunc in congue.&lt;/p&gt;
 </description>
     </item>
     
@@ -27,7 +70,8 @@
       <pubDate>Sat, 08 Jan 2022 00:08:51 +0700</pubDate>
       
       <guid>https://test.panjibaskoro.web.id/posts/my-first-post/</guid>
-      <description></description>
+      <description>&lt;p&gt;Nothing to see here&lt;/p&gt;
+</description>
     </item>
     
   </channel>

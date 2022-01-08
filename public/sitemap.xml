@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://test.panjibaskoro.web.id/</loc>
-    <lastmod>2022-01-08T01:31:40+07:00</lastmod>
+    <loc>https://test.panjibaskoro.web.id/posts/halo-rakyat-internet/</loc>
+    <lastmod>2022-01-08T15:26:36+07:00</lastmod>
   </url><url>
-    <loc>https://test.panjibaskoro.web.id/posts/panji-was-here/</loc>
-    <lastmod>2022-01-08T01:31:40+07:00</lastmod>
+    <loc>https://test.panjibaskoro.web.id/</loc>
+    <lastmod>2022-01-08T15:26:36+07:00</lastmod>
   </url><url>
     <loc>https://test.panjibaskoro.web.id/posts/</loc>
+    <lastmod>2022-01-08T15:26:36+07:00</lastmod>
+  </url><url>
+    <loc>https://test.panjibaskoro.web.id/aboutme/</loc>
+    <lastmod>2022-01-08T14:22:33+07:00</lastmod>
+  </url><url>
+    <loc>https://test.panjibaskoro.web.id/posts/panji-was-here/</loc>
     <lastmod>2022-01-08T01:31:40+07:00</lastmod>
   </url><url>
     <loc>https://test.panjibaskoro.web.id/posts/my-first-post/</loc>
