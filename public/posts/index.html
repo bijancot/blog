@@ -1,355 +1,166 @@
-<!DOCTYPE html>
-
-
-<html lang="en-us" data-theme="">
+<!doctype html><html lang=en-us>
 <head>
-    
-        
-<meta charset="utf-8">
-<meta name="HandheldFriendly" content="True">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="referrer" content="no-referrer-when-downgrade">
-
-<title>Posts - Panji Iman Baskoro</title>
-
-<meta name="description" content="Hello there">
-
-
-
-<link rel="alternate" type="application/rss+xml" href="https://test.panjibaskoro.web.id/posts/index.xml" title="Panji Iman Baskoro" />
-<link rel="icon" type="image/x-icon" href="https://test.panjibaskoro.web.id/favicon.ico">
-<link rel="apple-touch-icon-precomposed" href="https://test.panjibaskoro.web.id/favicon.png">
-
-
-
-    
-
-
-
-
-
-    
-    
-        
-    
-    
-
-    
-        <link rel="stylesheet" href="https://test.panjibaskoro.web.id/css/style.min.a11b8916e7fc33d397d735329bc39b452eba5901a3c1a497fadc20be86f83e54.css" integrity="sha256-oRuJFuf8M9OX1zUym8ObRS66WQGjwaSX&#43;twgvob4PlQ=">
-    
-
-
-
-
-
-
-<meta property="og:title" content="Posts" />
-<meta property="og:description" content="Hello there" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://test.panjibaskoro.web.id/posts/" />
-
-
-<meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Posts"/>
-<meta name="twitter:description" content="Hello there"/>
-
-
-
-
-
-
-
-
-
-
-
-    
+<meta charset=utf-8>
+<title>Posts</title>
+<meta name=author content="Panji Iman Baskoro">
+<meta name=description content="  Hello there  ">
+<meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=5">
+<link rel=preconnect href=https://fonts.gstatic.com>
+<style type=text/css>/*!------------------------------------------------------------------
+PROJECT: Bookworm Hugo
+VERSION: 1.0.0
+AUTHOR: Themefisher
+AUTHOR WEBSITE: https://themefisher.com
+-------------------------------------------------------------------*/// site variables{{ with site.Params.variables }}$font-primary: '{{.font_primary}}',sans-serif; $h1:{{.h1}}; $h1-lg:{{.h1_lg}}; $h1-md:{{.h1_md}}; $h2:{{.h2}}; $h2-md:{{.h2_md}}; $h3:{{.h3}}; $h3-md:{{.h3_md}}; $h4:{{.h4}}; $h5:{{.h5}}; $h6:{{.h6}}; $white:{{.white}}; $black:{{.black}}; $dark:{{.dark}}; $gray:{{.gray}}; $light:{{.light}}; $color-primary:{{.color_primary}};{{ end }}@import 'mixins';@import 'typography';@import 'buttons';@import 'common';@import 'templates/navigation';@import 'templates/main'</style>
 </head>
 <body>
-    <a class="skip-main" href="#main">Skip to main content</a>
-    <div class="container">
-        <header class="common-header"> 
-            
-                <div class="header-top">
-    <h1 class="site-title">
-        <a href="/">Panji Iman Baskoro</a>
-    </h1>
-    <ul class="social-icons">
-
-
-    
-        
-        
-        <li>
-            <a href="https://github.com/bijancot" title="Github" rel="me">
-            <span class="inline-svg" >
-
-
-
-
-    
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path fill="currentColor" d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
-
-</span>
-
-            </a>
-        </li>
-    
-
-    
-        
-        
-        <li>
-            <a href="https://www.linkedin.com/in/panjibaskoro" title="Linkedin" rel="me">
-            <span class="inline-svg" >
-
-
-
-
-    
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
-
-</span>
-
-            </a>
-        </li>
-    
-
-    
-        
-        
-        <li>
-            <a href="https://twitter.com/panjibaskoro_" title="Twitter" rel="me">
-            <span class="inline-svg" >
-
-
-
-
-    
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/></svg>
-
-</span>
-
-            </a>
-        </li>
-    
-
+<div class=header-height-fix></div>
+<header class=header-nav>
+<div class=container>
+<div class=row>
+<div class=col-12>
+<nav class="navbar navbar-expand-lg navbar-light p-0">
+<a class="navbar-brand font-weight-bold mr-0" href=https://test.panjibaskoro.web.id/>
+<strong class=text-danger>`` doesn't exist</strong>
+</a>
+<button class=navbar-toggler type=button data-toggle=collapse data-target=#navHeader aria-controls=navHeader aria-expanded=false aria-label="Toggle navigation">
+<i class="d-inline lab la-buromobelexperte"></i>
+<i class="d-none las la-times"></i>
+</button>
+<div class="collapse navbar-collapse" id=navHeader>
+<ul class="navbar-nav ml-auto">
+<li class=nav-item>
+<a class=nav-link href=https://test.panjibaskoro.web.id/posts/>Articles</a>
+</li>
+<li class=nav-item>
+<a class=nav-link href=https://test.panjibaskoro.web.id/aboutme>whoami</a>
+</li>
 </ul>
-
 </div>
-
-    <nav>
-        
-        
-        <a class="" href="https://test.panjibaskoro.web.id/posts/" title="Articles">Articles</a>
-        
-        <a class="" href="https://test.panjibaskoro.web.id/aboutme" title="whoami">whoami</a>
-        
-    </nav>
-
-
-
-
-            
-        </header>
-        <main id="main" tabindex="-1"> 
-            
-    <div class="index-content">
-        
-    </div>
-
-    <div class="articles h-feed">
-        <h1 class="post-title">Posts</h1>
-        
-        
-            <div class="post-short-list h-entry">
-                <div class="post-header">
-                    <header>
-                        <h2 class="p-name post-title"><a class="u-url" href="/posts/halo-rakyat-internet/">Halo Rakyat Internet !</a></h2>
-                        
-                    </header>
-                </div>
-                
-
-
-<div class="post-info">
-    
-        <div class="post-date dt-published">2022-01-08</div>
-    
-
-    <a class="post-hidden-url u-url" href="https://test.panjibaskoro.web.id/posts/halo-rakyat-internet/">https://test.panjibaskoro.web.id/posts/halo-rakyat-internet/</a>
-    <a href="https://test.panjibaskoro.web.id/" class="p-name p-author post-hidden-author h-card" rel="me">Panji Iman Baskoro</a>
-
-
-    <div class="post-taxonomies">
-        
-            
-    </div>
+</nav>
 </div>
-
-            </div>
-        
-            <div class="post-short-list h-entry">
-                <div class="post-header">
-                    <header>
-                        <h2 class="p-name post-title"><a class="u-url" href="/posts/panji-was-here/">Panji Was Here</a></h2>
-                        
-                    </header>
-                </div>
-                
-
-
-<div class="post-info">
-    
-        <div class="post-date dt-published">2022-01-08</div>
-    
-
-    <a class="post-hidden-url u-url" href="https://test.panjibaskoro.web.id/posts/panji-was-here/">https://test.panjibaskoro.web.id/posts/panji-was-here/</a>
-    <a href="https://test.panjibaskoro.web.id/" class="p-name p-author post-hidden-author h-card" rel="me">Panji Iman Baskoro</a>
-
-
-    <div class="post-taxonomies">
-        
-            
-    </div>
 </div>
-
-            </div>
-        
-            <div class="post-short-list h-entry">
-                <div class="post-header">
-                    <header>
-                        <h2 class="p-name post-title draft"><a class="u-url" href="/posts/my-first-post/">My First Post</a></h2>
-                        
-                    </header>
-                </div>
-                
-
-
-<div class="post-info">
-    
-        <div class="post-date dt-published">2022-01-08</div>
-    
-
-    <a class="post-hidden-url u-url" href="https://test.panjibaskoro.web.id/posts/my-first-post/">https://test.panjibaskoro.web.id/posts/my-first-post/</a>
-    <a href="https://test.panjibaskoro.web.id/" class="p-name p-author post-hidden-author h-card" rel="me">Panji Iman Baskoro</a>
-
-
-    <div class="post-taxonomies">
-        
-            
-    </div>
 </div>
-
-            </div>
-        
-    </div>
-
-
-        </main>
-        
-            <footer class="common-footer">
-    
-    
-
-    <div class="common-footer-bottom">
-        
-        <div class="copyright">
-            <p>© Panji Iman Baskoro, 2022<br>
-            Powered by <a target="_blank" rel="noopener noreferrer" href="https://gohugo.io/">Hugo</a>, theme <a target="_blank" rel="noopener noreferrer" href="https://github.com/mitrichius/hugo-theme-anubis">Anubis</a>.<br>
-            
-            </p>  
-        </div> 
-
-        
-
-    
-
-
-
-    <button class="theme-switcher">
-        Dark theme
-    </button>
-
-    <script>
-    const STORAGE_KEY = 'user-color-scheme'
-    const defaultTheme = "dark"
-
-    let currentTheme
-    let switchButton
-    let autoDefinedScheme = window.matchMedia('(prefers-color-scheme: dark)')
-
-    const autoChangeScheme = e => {
-        currentTheme = e.matches ? 'dark' : 'light'
-        document.documentElement.setAttribute('data-theme', currentTheme)
-        changeButtonText()
-    }
-
-    document.addEventListener('DOMContentLoaded', function() {
-        switchButton = document.querySelector('.theme-switcher')
-        currentTheme = detectCurrentScheme()
-        if (currentTheme == 'dark') {
-            document.documentElement.setAttribute('data-theme', 'dark')
-        }
-        if (currentTheme == 'auto') {
-            autoChangeScheme(autoDefinedScheme);
-            autoDefinedScheme.addListener(autoChangeScheme);
-        }
-        changeButtonText()
-        switchButton.addEventListener('click', switchTheme, false)
-    })
-
-    function detectCurrentScheme() {
-        if (localStorage.getItem(STORAGE_KEY)) {
-            return localStorage.getItem(STORAGE_KEY)
-        } 
-        if (defaultTheme) {
-            return defaultTheme
-        } 
-        if (!window.matchMedia) {
-            return 'light'
-        } 
-        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-            return 'dark'
-        }
-        return 'light'
-    }
-
-    function changeButtonText()
-    {   
-        switchButton.textContent = currentTheme == 'dark' ?  "Light theme" : "Dark theme"
-    }
-
-    function switchTheme(e) {
-        if (currentTheme == 'dark') {
-            localStorage.setItem(STORAGE_KEY, 'light')
-            document.documentElement.setAttribute('data-theme', 'light')
-            currentTheme = 'light'
-        } else {
-            localStorage.setItem(STORAGE_KEY, 'dark')
-            document.documentElement.setAttribute('data-theme', 'dark')
-            currentTheme = 'dark'
-        }
-        changeButtonText()
-    }
-    </script>
-   
-    </div>
-
-    <p class="h-card vcard">
-
-    <a href=https://test.panjibaskoro.web.id/ class="p-name u-url url fn" rel="me">Panji Iman Baskoro</a> 
-
-     
-        /
-        <a class="p-email u-email email" rel="me" href="mailto:panjidia995@gmail.com">panjidia995@gmail.com</a>
-    
-
-    
-</p> 
+</header>
+<section class="section-sm pb-2 page-header">
+<div class=container>
+<div class=row>
+<div class="col-8 mx-auto text-center">
+<h3 class="mb-3 text-dark font-weight-bold">Posts</h3>
+<ul class="list-inline breadcrumb-menu">
+<li class=list-inline-item><a href=/>Home</a></li>
+<li class=list-inline-item>/ &nbsp; <a href=https://test.panjibaskoro.web.id/posts>Posts</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section class=section-sm>
+<div class=container>
+<div class="row no-gutters justify-content-center">
+<div class=col-lg-10>
+<div class=row>
+<div class=col-lg-6>
+<article class="card post-card">
+<div class=card-body>
+<ul class="card-meta list-inline mb-2">
+<li class="list-inline-item mb-2">
+<a href=https://test.panjibaskoro.web.id/ class=card-meta-author>
+<img loading=lazy src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=150&pg&d=identicon">
+<span>Panji Iman Baskoro</span>
+</a>
+</li>
+<li class="list-inline-item mb-2">
+<span>20 Jan, 2022</span>
+</li>
+<li class="list-inline-item mb-2">
+<ul class="card-meta-tag list-inline">
+</ul>
+</li>
+</ul>
+<h3 class=mb-3>
+<a class=post-title href=https://test.panjibaskoro.web.id/posts/apakah-masa-depan-docker-dalam-bahaya/>Apakah Masa Depan Docker Dalam Bahaya ?</a>
+</h3>
+<p>
+Halo semuanya!, apakabar? semoga teman-teman yang membaca artikel ini sedang ada dalam kondisi yang baik :D. Kalau saya sih lagi nulis tentang docker …</p>
+</div>
+</article>
+</div>
+<div class=col-lg-6>
+<article class="card post-card">
+<div class=card-body>
+<ul class="card-meta list-inline mb-2">
+<li class="list-inline-item mb-2">
+<a href=https://test.panjibaskoro.web.id/ class=card-meta-author>
+<img loading=lazy src="https://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?s=150&pg&d=identicon">
+<span>Panji Iman Baskoro</span>
+</a>
+</li>
+<li class="list-inline-item mb-2">
+<span>08 Jan, 2022</span>
+</li>
+<li class="list-inline-item mb-2">
+<ul class="card-meta-tag list-inline">
+</ul>
+</li>
+</ul>
+<h3 class=mb-3>
+<a class=post-title href=https://test.panjibaskoro.web.id/posts/halo-rakyat-internet/>Halo Rakyat Internet !</a>
+</h3>
+<p>Hai! ini artikel pertama saya sekaligus pengenalan siapa Panji Baskoro. Sebelumnya terimakasih sudah ada di sini 😂
+TL;DR Halo saya Panji Iman Baskoro, …</p>
+</div>
+</article>
+</div>
+<div class=col-lg-6>
+<article class="card post-card">
+<div class=card-body>
+<ul class="card-meta list-inline mb-2">
+<li class="list-inline-item mb-2">
+</li>
+<li class="list-inline-item mb-2">
+<span>08 Jan, 2022</span>
+</li>
+<li class="list-inline-item mb-2">
+<ul class="card-meta-tag list-inline">
+</ul>
+</li>
+</ul>
+<h3 class=mb-3>
+<a class=post-title href=https://test.panjibaskoro.web.id/posts/panji-was-here/>Panji Was Here</a>
+</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse id hendrerit augue. Cras sed diam pretium, volutpat enim non, rhoncus neque. …</p>
+</div>
+</article>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<footer class=section-sm>
+<div class=container>
+<div class="row justify-content-center align-items-center">
+<div class=col-lg-5>
+</div>
+<div class="col-lg-12 text-center mt-5">
+<ul class="list-inline footer-menu mb-4">
+</ul>
+<ul class="social-links icon-box list-unstyled list-inline font-weight-500 mb-3">
+<li class="list-inline-item text-center"><a href aria-label=social-icon>
+<i class=lab></i>
+</a></li>
+<li class="list-inline-item text-center"><a href aria-label=social-icon>
+<i class=lab></i>
+</a></li>
+<li class="list-inline-item text-center"><a href aria-label=social-icon>
+<i class=lab></i>
+</a></li>
+</ul>
+</div>
+</div>
+</div>
 </footer>
-
-        
-    </div>
+<script crossorigin=anonymous defer integrity="sha512-eKypH5j66hO3pSNYnPLKWXk/iOQfxwIHVoy+yJ6Up+17INvTGqltSy0O98ZVgO4R6aJc7ygGAORHWKY+6y/uDQ==" type=application/javascript>'use strict';$('.preloader').delay(100).fadeOut(10),$(window).scroll(function(){$(window).scrollTop()>=50?$('.header-nav').addClass('header-sticky-top'):$('.header-nav').removeClass('header-sticky-top')}),$(document).ready(function(){var a,b;function c(){$('[data-toggle="search"]').on('click',function(){$('.search-block').fadeIn(200),setTimeout(function(){$('.search-block').addClass('is-visible');var a=$('#search-field').val();$('#search-query').focus().val('').val(a)},250)}),$('[data-toggle="search-close"]').on('click',function(){$('.search-block').fadeOut(200).removeClass('is-visible')})}c();function d(){$('.navbar-toggler').on('click',function(){$('i').toggleClass('d-inline d-none')})}d(),$('#instafeed').length!==0&&(a=$('#instafeed').attr('data-accessToken'),b=new Instafeed({get:'user',limit:6,resolution:'low_resolution',accessToken:a,template:'<div class="col-xl col-lg-2 col-md-3 col-sm-3 col-4"><a class="instagram-post" href="{{link}}" aria-label="instagram-post-link"><img loading="lazy" class="img-fluid" src="{{image}}" alt="instagram-image"></a></div>'}),b.run())}),$('.tab-content').find('.tab-pane').each(function(c,d){var a=$(this).closest('.code-tabs').find('.nav-tabs'),b=$(this).attr('title');a.append('<li class="nav-item"><a class="nav-link" href="#">'+b+'</a></li>')}),$('.code-tabs ul.nav-tabs').each(function(){$(this).find("li:first").addClass('active')}),$('.code-tabs .tab-content').each(function(){$(this).find("div:first").addClass('active')}),$('.nav-tabs a').click(function(c){c.preventDefault();var a=$(this).parent(),d=a.index(),b=$(this).closest('.code-tabs'),e=b.find('.tab-pane').eq(d);b.find('.active').removeClass('active'),a.addClass('active'),e.addClass('active')}),$('.collapse').on('shown.bs.collapse',function(){$(this).parent().find('.la-plus').removeClass('la-plus').addClass('la-minus')}).on('hidden.bs.collapse',function(){$(this).parent().find('.la-minus').removeClass('la-minus').addClass('la-plus')})</script>
 </body>
 </html>
