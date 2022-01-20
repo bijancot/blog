@@ -1,7 +1,12 @@
 ---
-title: "About Panji Baskoro"
-date: 2022-01-08T14:22:33+07:00
+title: "Apakah Masa Depan Docker Dalam Bahaya ?"
+description: "meta description"
+image: "https://is3.cloudhost.id/panji-wp/blog-1/docker-wins.png"
+date: 2022-01-20T19:12:48+07:00
 draft: false
+author: "Lubana Era"
+tags: ["Diy", "Toy"]
+categories: ["LifeStyle"]
 ---
 
 <h1>i'm panji baskrraa</h1>
