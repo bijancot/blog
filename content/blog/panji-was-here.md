@@ -3,7 +3,7 @@ title: "Panji Was Here"
 date: 2022-01-08T01:31:40+07:00
 draft: false
 author: "Panji Iman Baskoro"
-image: ""
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/330px-No-Image-Placeholder.svg.png"
 ---
 
 
