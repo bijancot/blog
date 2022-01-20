@@ -100,37 +100,6 @@ menu:
     - name: Contact
       url: contact/
       weight: 4
-    - name: Buy Premium
-      url: 'https://gethugothemes.com/products/bookworm/'
-      weight: 5
-    - weight: 6
-      url: '#'
-      name: Pages
-      hasChildren: true
-    - parent: Pages
-      name: Author
-      url: author/
-      weight: 1
-    - parent: Pages
-      name: Tags
-      url: tags/
-      weight: 2
-    - parent: Pages
-      name: Category
-      url: categories/
-      weight: 3
-    - parent: Pages
-      name: Elements
-      weight: 4
-      url: elements/
-    - parent: Pages
-      name: Privacy
-      url: privacy/
-      weight: 5
-    - parent: Pages
-      name: Terms & Conditions
-      url: terms-conditions/
-      weight: 6
   footer:
     - name: About
       url: about/
