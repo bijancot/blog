@@ -1,9 +1,9 @@
 ---
 title: "My First Post"
-date: 2022-01-08T00:08:51+07:00
-draft: true
-author: "Panji Iman Baskoro"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/No-Image-Placeholder.svg/330px-No-Image-Placeholder.svg.png"
+date: 2022-01-08T14:22:33+07:00
+draft: false
+author: "Panji Iman Baskoro"
 ---
 
 Nothing to see here
