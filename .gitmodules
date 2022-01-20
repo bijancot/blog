@@ -12,4 +12,4 @@
 	url = https://github.com/mitrichius/hugo-theme-anubis.git
 [submodule "themes/bookworm"]
         path = themes/bookworm
-        url = https://github.com/paji/hugo-theme-anubis.git
+        url = https://github.com/mitrichius/hugo-theme-anubis.git
