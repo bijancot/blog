@@ -4,11 +4,11 @@ description: "meta description"
 image: "https://is3.cloudhost.id/panji-wp/blog-1/docker-wins.png"
 date: 2022-01-20T19:12:48+07:00
 draft: false
-author: "Lubana Era"
+author: "Panji Iman Baskoro"
 tags: ["Diy", "Toy"]
 categories: ["LifeStyle"]
 ---
-    
+
 
 {{< enter >}}
 Halo semuanya!, apakabar? semoga teman-teman yang membaca artikel ini sedang ada dalam kondisi yang baik :D. Kalau saya sih lagi nulis tentang docker ditemenin pacar di sebelah hehe.
