@@ -1,4 +1,4 @@
-baseURL: 'https://test.panjibaskoro.web.id'
+baseURL: 'https://test.panjibaskoro.web.id/'
 title: Panji Iman Baskoro
 theme: bookworm
 paginate: '5'
